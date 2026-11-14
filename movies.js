@@ -686,7 +686,7 @@ const tomwilkinson          = "https://tse1.mm.bing.net/th?q=Tom+Wilkinson+actor
 const rutgerhauer           = "https://tse1.mm.bing.net/th?q=Rutger+Hauer+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const kenwatanabe           = "https://tse1.mm.bing.net/th?q=Ken+Watanabe+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 
-
+const annalambe = "https://tse1.mm.bing.net/th?q=Anna+Lambe+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 // Smile 2
 const rosemariedewitt       = "https://tse1.mm.bing.net/th?q=Rosemarie+DeWitt+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 const lukasgage             = "https://tse1.mm.bing.net/th?q=Lukas+Gage+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
@@ -709,6 +709,44 @@ const jaymelawson           = "https://tse1.mm.bing.net/th?q=Jayme+Lawson+actres
 const jadensmith            = "https://tse1.mm.bing.net/th?q=Jaden+Smith+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const thandiwenewton        = "https://tse1.mm.bing.net/th?q=Thandiwe+Newton+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 const jameskaren            = "https://tse1.mm.bing.net/th?q=James+Karen+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Gran Turismo
+const archiemadekwe         = "https://tse1.mm.bing.net/th?q=Archie+Madekwe+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const darrenbarnet          = "https://tse1.mm.bing.net/th?q=Darren+Barnet+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const gerihalliwell         = "https://tse1.mm.bing.net/th?q=Geri+Halliwell+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const takehirohira          = "https://tse1.mm.bing.net/th?q=Takehiro+Hira+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Thir13en Ghosts
+const embethdavidtz         = "https://tse1.mm.bing.net/th?q=Embeth+Davidtz+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const matthewlilliard       = "https://tse1.mm.bing.net/th?q=Matthew+Lillard+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const shannonelizabeth      = "https://tse1.mm.bing.net/th?q=Shannon+Elizabeth+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const fmurrayabraham        = "https://tse1.mm.bing.net/th?q=F+Murray+Abraham+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const rahdigga              = "https://tse1.mm.bing.net/th?q=Rah+Digga+rapper+portrait&w=500&h=500&c=7&rs=1&p=0";
+const jrbourne              = "https://tse1.mm.bing.net/th?q=JR+Bourne+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const alecroberts           = "https://tse1.mm.bing.net/th?q=Alec+Roberts+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Dune
+const rebeccaferguson       = "https://tse1.mm.bing.net/th?q=Rebecca+Ferguson+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const stellanskarsgard      = "https://tse1.mm.bing.net/th?q=Stellan+Skarsgard+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const charlotterampling     = "https://tse1.mm.bing.net/th?q=Charlotte+Rampling+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const sharonduncanbrewster  = "https://tse1.mm.bing.net/th?q=Sharon+Duncan-Brewster+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+
+// Dune: Part Two
+const christopherwalken     = "https://tse1.mm.bing.net/th?q=Christopher+Walken+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const leaseydoux            = "https://tse1.mm.bing.net/th?q=Lea+Seydoux+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const souheilayacoub        = "https://tse1.mm.bing.net/th?q=Souheila+Yacoub+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Ready Player One
+const tyesheridan           = "https://tse1.mm.bing.net/th?q=Tye+Sheridan+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const oliviacooke           = "https://tse1.mm.bing.net/th?q=Olivia+Cooke+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const benmendelsohn         = "https://tse1.mm.bing.net/th?q=Ben+Mendelsohn+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const lenawaithe            = "https://tse1.mm.bing.net/th?q=Lena+Waithe+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+const simonpegg             = "https://tse1.mm.bing.net/th?q=Simon+Pegg+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const markrylance           = "https://tse1.mm.bing.net/th?q=Mark+Rylance+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const winmorisaki           = "https://tse1.mm.bing.net/th?q=Win+Morisaki+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const philipzhao            = "https://tse1.mm.bing.net/th?q=Philip+Zhao+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const movies = {
 
 
@@ -954,7 +992,7 @@ cars3: {
     "Lighting McQueen, a legendary racer, is overcome by new generation racers. He sets out to prove that he is the best racer in the world with the help of Cruz Ramirez.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "https://drive.google.com/file/d/1nq65IaVpaMtMRZspnzKmudeygu2VsbKz/view?usp=sharing",
+  watchLink: "https://drive.google.com/file/d/1P6AOlPJEwtH1O3gIhcBsiefhFySa8yeX/view?usp=drive_link",
 
   accent: "217, 30, 38",
   theme: {
@@ -4640,7 +4678,7 @@ thetomorrowwar: {
     "A family man is drafted to fight in a future war where the fate of humanity relies on his ability to confront the past. To save the world, he must recruit his estranged father and a team of soldiers to take on a deadly alien species.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1ICgmo6uCd9SKKIxBrJOzglfhKjahngiK/view?usp=sharing",
 
   accent: "76, 180, 224",
   theme: {
@@ -4698,7 +4736,7 @@ justiceleaguesnyder: {
     "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1t_1bOYM3RPQq44yFMd-qiIjM032qOtWd/view?usp=sharing",
 
   accent: "150, 156, 168",
   theme: {
@@ -4765,7 +4803,7 @@ thebatman: {
     "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1LhPGhhJuxhbz_Rp_90IgEvjIiPuVvM2p/view?usp=sharing",
 
   accent: "232, 90, 28",
   theme: {
@@ -4828,7 +4866,7 @@ batmanbegins: {
     "After witnessing his parents' murder, Bruce Wayne travels the world and trains with the League of Shadows. He returns to Gotham as Batman to fight the criminals and corruption that have gripped the city.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/10apYpqoVkds9broO-hn8_ib6AamPW5GP/view?usp=sharing",
 
   accent: "216, 140, 40",
   theme: {
@@ -4894,7 +4932,7 @@ pursuitofhappyness: {
     "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career, while battling homelessness and the hardships of making a better future for them both.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1BZNMax1PNu45Izw442hgOcg7S3Wbh3Sa/view?usp=sharing",
 
   accent: "70, 140, 220",
   theme: {
@@ -4949,7 +4987,7 @@ smile2: {
     "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, she is forced to face her dark past to regain control of her life.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1wSXyDfHxWnTTmYp9IxSxhP-JDIJw24nU/view?usp=sharing",
 
   accent: "224, 20, 28",
   theme: {
@@ -4997,7 +5035,7 @@ tronares: {
     "A highly sophisticated program, Ares, is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with AI beings.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/103RqerYeJc0eT_T328TVdg86mhwXzrMU/view?usp=sharing",
 
   accent: "255, 52, 28",
   theme: {
@@ -5047,7 +5085,7 @@ therunningman: {
     "In a dystopian future, desperate and out of options, Ben Richards enters a deadly live reality show where contestants must survive thirty days while being hunted by professional killers, with the whole world watching.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1FB4kDcjqdFFOZ-2TCxHn22PpjD9EmB63/view?usp=sharing",
 
   accent: "224, 20, 28",
   theme: {
@@ -5086,6 +5124,347 @@ therunningman: {
     { name: "William H. Macy",   role: "Molie",             img: williamhmacy },
     { name: "Emilia Jones",      role: "Amelia Williams",   img: emiliajones },
     { name: "Jayme Lawson",      role: "Sheila",            img: jaymelawson }
+  ]
+},
+
+
+granturismo: {
+  title: "Gran Turismo",
+  director: "Neill Blomkamp",
+  genres: ["Action", "Biography", "Drama", "Sport"],
+  pills: ["2023", "2H 14M", "IMDb 7.0", "PG-13"],
+  overview:
+    "Based on the unbelievable true story of a team of unlikely underdogs - a struggling driver, a retired racer and an idealistic motorsport executive - who risked it all to take on the most elite sport in the world.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1lVTg9X9iJ4D7Smso-08rOQx4grkGa9tA/view?usp=sharing",
+
+  accent: "232, 90, 36",
+  theme: {
+    buttonColor: "#d8281e",
+    buttonGlow: "rgba(232, 48, 36, 0.55)",
+    lineColor: "#f0a030",
+    backHover: "#d8281e",
+    castHover: "#f0a030",
+    cardHover: "#f0a030",
+    playHover: "#2a68c8",
+    cautionColor: "#f6bc62",
+    textColor: "#f2ece6",
+    castRoleColor: "#a89c92",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(10, 8, 12, 0.94) 0%, rgba(10, 8, 12, 0.4) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(240, 160, 48, 0.24) 0%, transparent 55%), linear-gradient(160deg, #2e2230 0%, #08060a 100%)",
+    castBackground: "linear-gradient(180deg, #08060a 0%, #1c1620 100%)",
+    reviewsBackground: "linear-gradient(180deg, #1c1620 0%, #2e1e1c 60%, #6a2418 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794663889/gran-turismo-8k-3840x2160-12050_d56kka.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794663890/GRAND_TURISMO_jsbydv.jpg",
+
+
+trailers: [
+  {
+    id: "GVPzGBvPrzw",
+    alt: "Official Trailer - Sony Pictures",
+    thumb: "https://img.youtube.com/vi/GVPzGBvPrzw/hqdefault.jpg"
+  },
+  {
+    id: "w0Qkomt4EXE",
+    alt: "Official Trailer - Sony Pictures India",
+    thumb: "https://img.youtube.com/vi/w0Qkomt4EXE/hqdefault.jpg"
+  }
+],
+
+
+  cast: [
+    { name: "Archie Madekwe",        role: "Jann Mardenborough",   img: archiemadekwe },
+    { name: "David Harbour",         role: "Jack Salter",          img: davidharbour },
+    { name: "Orlando Bloom",         role: "Danny Moore",          img: orlandobloom },
+    { name: "Darren Barnet",         role: "Matty Davis",          img: darrenbarnet },
+    { name: "Geri Halliwell Horner", role: "Lesley Mardenborough", img: gerihalliwell },
+    { name: "Djimon Hounsou",        role: "Steve Mardenborough",  img: djimonhounsou },
+    { name: "Takehiro Hira",         role: "Kazunori Yamauchi",    img: takehirohira }
+  ]
+},
+
+thirteenghosts: {
+  title: "Thir13en Ghosts",
+  director: "Steve Beck",
+  genres: ["Fantasy", "Horror", "Mystery"],
+  pills: ["2001", "1H 31M", "IMDb 5.6", "R"],
+  overview:
+    "A family inherits a mysterious glass house from an eccentric uncle, only to discover it is a prison for twelve vengeful ghosts. Trapped inside, they must survive the night as the spirits are unleashed.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1thyfEbUxBCN20jr93lw_-S9z4Kmt7uGl/view?usp=sharing",
+
+  accent: "210, 60, 30",
+  theme: {
+    buttonColor: "#b81c1c",
+    buttonGlow: "rgba(210, 36, 28, 0.55)",
+    lineColor: "#d88a28",
+    backHover: "#b81c1c",
+    castHover: "#d88a28",
+    cardHover: "#d88a28",
+    playHover: "#e03a2c",
+    cautionColor: "#eaa850",
+    textColor: "#f0e4d8",
+    castRoleColor: "#a48a76",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(4, 2, 2, 0.96) 0%, rgba(4, 2, 2, 0.5) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(216, 138, 40, 0.2) 0%, transparent 55%), linear-gradient(160deg, #36160c 0%, #040201 100%)",
+    castBackground: "linear-gradient(180deg, #040201 0%, #1e0e08 100%)",
+    reviewsBackground: "linear-gradient(180deg, #1e0e08 0%, #36160c 60%, #5a1410 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794663908/42830673_i7wss8.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794663910/471611392250537674_cbr8qa.jpg",
+
+  trailers: [
+    { id: "", alt: "Official Trailer", thumb: "" },
+    { id: "", alt: "Trailer Clip 2",   thumb: "" },
+    { id: "", alt: "Trailer Clip 3",   thumb: "" }
+  ],
+
+  cast: [
+    { name: "Tony Shalhoub",     role: "Arthur Kriticos",   img: tonyshalhoub },
+    { name: "Embeth Davidtz",    role: "Kalina",            img: embethdavidtz },
+    { name: "Matthew Lillard",   role: "Dennis Rafkin",     img: matthewlilliard },
+    { name: "Shannon Elizabeth", role: "Kathy Kriticos",    img: shannonelizabeth },
+    { name: "F. Murray Abraham", role: "Cyrus Kriticos",    img: fmurrayabraham },
+    { name: "Rah Digga",         role: "Maggie",            img: rahdigga },
+    { name: "J.R. Bourne",       role: "Ben Moss",          img: jrbourne },
+    { name: "Alec Roberts",      role: "Bobby Kriticos",    img: alecroberts }
+  ]
+},
+dune: {
+  title: "Dune",
+  director: "Denis Villeneuve",
+  genres: ["Action", "Adventure", "Drama", "Sci-Fi"],
+  pills: ["2021", "2H 35M", "IMDb 8.0", "PG-13"],
+  overview:
+    "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1SBD4Z4knmwTGATFWBsJ7m8hHYIKIzssT/view?usp=sharing",
+
+
+  accent: "74, 150, 152",
+  theme: {
+    buttonColor: "#2f8a90",
+    buttonGlow: "rgba(70, 170, 176, 0.5)",
+    lineColor: "#c8985a",
+    backHover: "#2f8a90",
+    castHover: "#c8985a",
+    cardHover: "#c8985a",
+    playHover: "#d8a860",
+    cautionColor: "#dcb078",
+    textColor: "#e8f0ee",
+    castRoleColor: "#8aa4a2",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(6, 18, 20, 0.94) 0%, rgba(6, 18, 20, 0.4) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(200, 152, 90, 0.22) 0%, transparent 55%), linear-gradient(160deg, #1c4448 0%, #040a0b 100%)",
+    castBackground: "linear-gradient(180deg, #040a0b 0%, #0e2628 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0e2628 0%, #1a3c40 60%, #5a4020 100%)"
+  },
+
+  hero: "dune.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794663870/Dune_2021_yew4l5.jpg",
+
+
+trailers: [
+  {
+    id: "n9xhJrPXop4",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/n9xhJrPXop4/hqdefault.jpg"
+  },
+  {
+    id: "w0HgHet0sxg",
+    alt: "Official Final Trailer",
+    thumb: "https://img.youtube.com/vi/w0HgHet0sxg/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Timothée Chalamet",     role: "Paul Atreides",           img: timotheechalamet },
+    { name: "Rebecca Ferguson",      role: "Lady Jessica",            img: rebeccaferguson },
+    { name: "Oscar Isaac",           role: "Duke Leto Atreides",      img: oscarisaac },
+    { name: "Josh Brolin",           role: "Gurney Halleck",          img: joshbrolin },
+    { name: "Jason Momoa",           role: "Duncan Idaho",            img: jasonmomoa },
+    { name: "Zendaya",               role: "Chani",                   img: zendaya },
+    { name: "Javier Bardem",         role: "Stilgar",                 img: javierbardem },
+    { name: "Stellan Skarsgård",     role: "Baron Harkonnen",         img: stellanskarsgard },
+    { name: "Dave Bautista",         role: "Glossu Rabban",           img: davebautista },
+    { name: "Charlotte Rampling",    role: "Reverend Mother Mohiam",  img: charlotterampling },
+    { name: "Sharon Duncan-Brewster", role: "Liet-Kynes",             img: sharonduncanbrewster }
+  ]
+},
+
+dune2: {
+  title: "Dune: Part Two",
+  director: "Denis Villeneuve",
+  genres: ["Action", "Adventure", "Drama", "Sci-Fi"],
+  pills: ["2024", "2H 46M", "IMDb 8.5", "PG-13"],
+  overview:
+    "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "  https://drive.google.com/file/d/1NIpUg0EIgFI2MiI1WQ6yFdkB166ThdhD/view?usp=sharing",
+
+  accent: "236, 120, 40",
+  theme: {
+    buttonColor: "#e0701e",
+    buttonGlow: "rgba(244, 130, 44, 0.58)",
+    lineColor: "#f4b840",
+    backHover: "#e0701e",
+    castHover: "#f4b840",
+    cardHover: "#f4b840",
+    playHover: "#f4b840",
+    cautionColor: "#f8cc70",
+    textColor: "#f8ece0",
+    castRoleColor: "#c0a088",
+    buttonTextColor: "#111111",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(22, 6, 12, 0.94) 0%, rgba(22, 6, 12, 0.42) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(244, 184, 64, 0.26) 0%, transparent 55%), linear-gradient(160deg, #4a1c10 0%, #0c0406 100%)",
+    castBackground: "linear-gradient(180deg, #0c0406 0%, #2c0e0c 100%)",
+    reviewsBackground: "linear-gradient(180deg, #2c0e0c 0%, #4a1c10 60%, #6a2a1c 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794663885/wp12601113-dune-part-2-4k-wallpapers_qfz6n4.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794663871/Dune_2_Film_Poster_qqzzqa.jpg",
+
+
+trailers: [
+  {
+    id: "Way9Dexny3w",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/Way9Dexny3w/hqdefault.jpg"
+  },
+  {
+    id: "_YUzQa_1RCE",
+    alt: "Official Trailer 2",
+    thumb: "https://img.youtube.com/vi/_YUzQa_1RCE/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Timothée Chalamet",   role: "Paul Atreides",           img: timotheechalamet },
+    { name: "Zendaya",             role: "Chani",                   img: zendaya },
+    { name: "Rebecca Ferguson",    role: "Lady Jessica",            img: rebeccaferguson },
+    { name: "Josh Brolin",         role: "Gurney Halleck",          img: joshbrolin },
+    { name: "Austin Butler",       role: "Feyd-Rautha",             img: austinbutler },
+    { name: "Florence Pugh",       role: "Princess Irulan",         img: florencepugh },
+    { name: "Dave Bautista",       role: "Glossu Rabban",           img: davebautista },
+    { name: "Christopher Walken",  role: "Emperor Shaddam IV",      img: christopherwalken },
+    { name: "Léa Seydoux",         role: "Lady Margot Fenring",     img: leaseydoux },
+    { name: "Souheila Yacoub",     role: "Shishakli",               img: souheilayacoub },
+    { name: "Stellan Skarsgård",   role: "Baron Harkonnen",         img: stellanskarsgard },
+    { name: "Charlotte Rampling",  role: "Reverend Mother Mohiam",  img: charlotterampling },
+    { name: "Javier Bardem",       role: "Stilgar",                 img: javierbardem }
+  ]
+},
+readyplayerone: {
+  title: "Ready Player One",
+  director: "Steven Spielberg",
+  genres: ["Action", "Adventure", "Sci-Fi"],
+  pills: ["2018", "2H 20M", "IMDb 7.4", "PG-13"],
+  overview:
+    "When the creator of a popular video game system dies, a virtual contest is created to find a successor. A teenager from the slums enters the hunt for the hidden Easter egg that will give the winner control of the OASIS and a massive fortune.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "",
+
+  accent: "52, 110, 240",
+  theme: {
+    buttonColor: "#2a62e8",
+    buttonGlow: "rgba(60, 120, 255, 0.58)",
+    lineColor: "#d050e8",
+    backHover: "#2a62e8",
+    castHover: "#d050e8",
+    cardHover: "#d050e8",
+    playHover: "#e060f0",
+    cautionColor: "#e48af4",
+    textColor: "#e8ecfc",
+    castRoleColor: "#96a0cc",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(6, 6, 28, 0.94) 0%, rgba(6, 6, 28, 0.4) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(208, 80, 232, 0.24) 0%, transparent 55%), linear-gradient(160deg, #1a2070 0%, #05051c 100%)",
+    castBackground: "linear-gradient(180deg, #05051c 0%, #0e1250 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0e1250 0%, #261a68 60%, #5a1a6a 100%)"
+  },
+
+  hero: "ready_player_one.jpg",
+  poster: "ready_player_one_poster.jpg",
+
+  trailers: [
+    { id: "", alt: "Official Trailer", thumb: "" },
+    { id: "", alt: "Trailer Clip 2",   thumb: "" },
+    { id: "", alt: "Trailer Clip 3",   thumb: "" }
+  ],
+
+  cast: [
+    { name: "Tye Sheridan",    role: "Wade Watts / Parzival",   img: tyesheridan },
+    { name: "Olivia Cooke",    role: "Samantha / Art3mis",      img: oliviacooke },
+    { name: "Ben Mendelsohn",  role: "Nolan Sorrento",          img: benmendelsohn },
+    { name: "Lena Waithe",     role: "Helen / Aech",            img: lenawaithe },
+    { name: "T.J. Miller",     role: "i-R0k",                   img: tjmiller },
+    { name: "Simon Pegg",      role: "Ogden Morrow",            img: simonpegg },
+    { name: "Mark Rylance",    role: "James Halliday",          img: markrylance },
+    { name: "Win Morisaki",    role: "Daito",                   img: winmorisaki },
+    { name: "Philip Zhao",     role: "Sho",                     img: philipzhao }
+  ]
+},
+heartofthebeast: {
+  title: "Heart of the Beast",
+  director: "David Ayer",
+  genres: ["Action", "Adventure", "Thriller"],
+  pills: ["2026", "—", "IMDb —", "—"],
+  overview:
+    "After his small plane crashes in the Alaskan wilderness, a former Special Forces officer must find his way back to civilization with his combat dog, facing predators, harsh terrain and his own personal struggles.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1HIfHJmqOPebMQLJTtIOEMAOoHgnZGYM0/view?usp=sharing",
+
+  accent: "196, 70, 48",
+  theme: {
+    buttonColor: "#c0402c",
+    buttonGlow: "rgba(212, 70, 48, 0.52)",
+    lineColor: "#d8b862",
+    backHover: "#c0402c",
+    castHover: "#d8b862",
+    cardHover: "#d8b862",
+    playHover: "#d8b862",
+    cautionColor: "#e6cc84",
+    textColor: "#eef0e8",
+    castRoleColor: "#98a498",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(6, 14, 14, 0.94) 0%, rgba(6, 14, 14, 0.4) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(216, 184, 98, 0.2) 0%, transparent 55%), linear-gradient(160deg, #1c3a3a 0%, #050b0b 100%)",
+    castBackground: "linear-gradient(180deg, #050b0b 0%, #0f2224 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0f2224 0%, #1c3a3a 60%, #4a2a20 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794677612/1412864_mhjl4o.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794677597/Heart_of_the_Beast_ldok2z.jpg",
+
+
+trailers: [
+  {
+    id: "JFQcDFhNh4o",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/JFQcDFhNh4o/hqdefault.jpg"
+  },
+  {
+    id: "PPkGE8EvuDk",
+    alt: "New International Trailer",
+    thumb: "https://img.youtube.com/vi/PPkGE8EvuDk/hqdefault.jpg"
+  }
+],
+  cast: [
+    { name: "Brad Pitt",    role: "James Belmont",  img: bradpitt },
+    { name: "J.K. Simmons", role: "Cast",           img: jksimmons },
+    { name: "Anna Lambe",   role: "Cast",           img: annalambe }
   ]
 },
 };
