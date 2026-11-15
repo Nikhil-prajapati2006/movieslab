@@ -1418,14 +1418,13 @@
             const close = function () { box.classList.remove('show'); };
 
             $('watchBtn').addEventListener('click', function (e) {
-                if (ok()) return;              // already confirmed in this visit: open normally
                 e.preventDefault();
                 box.classList.add('show');
                 $('ageYes').focus();
             });
 
             $('ageYes').addEventListener('click', function () {
-                try { sessionStorage.setItem(KEY, '1'); } catch (e) { }
+                // (no longer remembered: asked every time)
                 close();
                 window.open(link, '_blank', 'noopener');
             });
