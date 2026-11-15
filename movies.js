@@ -1089,7 +1089,7 @@ cars2: {
   },
 
   hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794594330/cars_2_sb75or.jpg",
-  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794591095/cars2_poster_hdjgqs.jpgg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794591095/cars2_poster_hdjgqs.jpg",
 
   trailers: [
     { id: "oFTfAdauCOo", alt: "Official Trailer", thumb: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SNmpSZOIqY0EkQgBqiW9_3n7hOfBQ8KoXHHOUE9PCg&s=10" },
@@ -4775,7 +4775,7 @@ justiceleaguesnyder: {
   },
 
   hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794594801/zack_zynder_bk8dyy.jpg",
-  poster: "zack_zynder_poster.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794762054/Justice_League_l2hfgz.jpg",
 
 
 trailers: [
@@ -5507,7 +5507,7 @@ theodyssey: {
   pills: ["2026", "2H 53M", "IMDb 8.4", "R"],
   overview:
     "After the fall of Troy, the warrior Odysseus embarks on a perilous decade-long journey to return home to Ithaca, facing gods, monsters and temptation while his family fights to hold his kingdom together in his absence.",
-  language: "English",
+  language:English,
 
   watchLink: "https://drive.google.com/file/d/1KZ3qZOx2O5F-Fll9zxJYDHF_Fsbu21Oz/view?usp=sharing",
 
@@ -5565,7 +5565,7 @@ yourname: {
   pills: ["2016", "1H 46M", "IMDb 8.4", "PG"],
   overview:
     "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart? A high school girl in a rural town and a boy in Tokyo mysteriously begin swapping bodies.",
-  language: "Dual Audio (Japanese, Hindi)",
+  language: "Dual Audio (Japanese, english)",
   caution: "Dual Audio is available when you download the movie",
   watchLink: "https://drive.google.com/file/d/1Dfi-tNn8P9N2jC1wgbP9q3i_sQ4BbjgB/view?usp=sharing",
 
