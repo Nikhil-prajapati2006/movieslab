@@ -2246,6 +2246,7 @@ thewolfofwallstreet: {
   director: "Martin Scorsese",
   genres: ["Biography", "Comedy", "Crime", "Drama"],
   pills: ["2013", "3H 0M", "IMDb 8.2", "R"],
+  rating: "18+",
   overview:
     "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
   language: "Dual Audio (English, Hindi)",
@@ -2934,6 +2935,7 @@ johnwick: {
   director: "Chad Stahelski",
   genres: ["Action", "Crime", "Thriller"],
   pills: ["2014", "1H 41M", "IMDb 7.4", "R"],
+  rating: "18+",
   overview:
     "An ex-hitman comes out of retirement to track down the gangsters who took everything from him. With New York City as his bullet-riddled playground, John Wick will not rest until he has avenged the loss of his dog, his car and his peace.",
   language: "Dual Audio (English, Hindi)",
@@ -2998,6 +3000,7 @@ johnwick2: {
   director: "Chad Stahelski",
   genres: ["Action", "Crime", "Thriller"],
   pills: ["2017", "2H 2M", "IMDb 7.4", "R"],
+  rating: "18+",
   overview:
     "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life. He must fight his way through the world's most dangerous assassins to survive.",
   language: "Dual Audio (English, Hindi)",
@@ -3063,6 +3066,7 @@ johnwick3: {
   director: "Chad Stahelski",
   genres: ["Action", "Crime", "Thriller"],
   pills: ["2019", "2H 11M", "IMDb 7.4", "R"],
+  rating: "18+",
   overview:
     "John Wick is on the run after killing a member of the international assassins' guild, and with a 14 million dollar price tag on his head, he is the target of hit men and women everywhere. He must call in every favor he has left to survive.",
   language: "Dual Audio (English, Hindi)",
@@ -3127,6 +3131,7 @@ johnwick4: {
   director: "Chad Stahelski",
   genres: ["Action", "Crime", "Thriller"],
   pills: ["2023", "2H 49M", "IMDb 7.7", "R"],
+  rating: "18+",
   overview:
     "John Wick uncovers a path to defeating the High Table. But before he can earn his freedom, he must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
   language: "Dual Audio (English, Hindi)",
@@ -5502,7 +5507,7 @@ theodyssey: {
   pills: ["2026", "2H 53M", "IMDb 8.4", "R"],
   overview:
     "After the fall of Troy, the warrior Odysseus embarks on a perilous decade-long journey to return home to Ithaca, facing gods, monsters and temptation while his family fights to hold his kingdom together in his absence.",
-  language:English,
+  language: "English",
 
   watchLink: "https://drive.google.com/file/d/1KZ3qZOx2O5F-Fll9zxJYDHF_Fsbu21Oz/view?usp=sharing",
 
