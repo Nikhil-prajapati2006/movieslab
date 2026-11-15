@@ -747,6 +747,18 @@ const simonpegg             = "https://tse1.mm.bing.net/th?q=Simon+Pegg+actor+po
 const markrylance           = "https://tse1.mm.bing.net/th?q=Mark+Rylance+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const winmorisaki           = "https://tse1.mm.bing.net/th?q=Win+Morisaki+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const philipzhao            = "https://tse1.mm.bing.net/th?q=Philip+Zhao+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+const monekamishiraishi     = "https://tse1.mm.bing.net/th?q=Mone+Kamishiraishi+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const ryonarita             = "https://tse1.mm.bing.net/th?q=Ryo+Narita+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const aoiyuki               = "https://tse1.mm.bing.net/th?q=Aoi+Yuki+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const nobunagashimazaki     = "https://tse1.mm.bing.net/th?q=Nobunaga+Shimazaki+voice+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const masaminagasawa        = "https://tse1.mm.bing.net/th?q=Masaaki+Nagasawa+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const etsukoichihara        = "https://tse1.mm.bing.net/th?q=Etsuko+Ichihara+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+// The Odyssey
+
+const samanthamorton        = "https://tse1.mm.bing.net/th?q=Samantha+Morton+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+
 const movies = {
 
 
@@ -1054,7 +1066,7 @@ cars2: {
     "Lightning McQueen and his pal Mater sets off on the journey to compete in the World Grand Prix race. However, their journey gets halted midway when Mater gets caught up in a strange adventure.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "https://drive.google.com/file/d/1SDW6xxsL41duRl7l6hnDzppFAg9rA934/view?usp=sharing",
+  watchLink: "https://drive.google.com/file/d/1Lh2phJCREdsH1Ew7Ao3dKZAAjZLNju8c/view?usp=drive_link",
 
   accent: "217, 30, 38",
   theme: {
@@ -1706,7 +1718,7 @@ topgunmaverick: {
 },
 
 
-mastersoftheuniverse: {
+masteroftheuniverse: {
   title: "Masters of the Universe",
   director: "Travis Knight",
   genres: ["Action", "Fantasy", "Adventure"],
@@ -5109,11 +5121,19 @@ therunningman: {
   hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794594714/the_running_man_fam1lw.jpg",
   poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794594730/the_running_man_poster_nxorok.jpg",
 
-  trailers: [
-    { id: "", alt: "Official Trailer", thumb: "" },
-    { id: "", alt: "Trailer Clip 2",   thumb: "" },
-    { id: "", alt: "Trailer Clip 3",   thumb: "" }
-  ],
+
+trailers: [
+  {
+    id: "KD18ddeFuyM",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/KD18ddeFuyM/hqdefault.jpg"
+  },
+  {
+    id: "_iHJHYjq7XI",
+    alt: "Final Trailer",
+    thumb: "https://img.youtube.com/vi/_iHJHYjq7XI/hqdefault.jpg"
+  }
+],
 
   cast: [
     { name: "Glen Powell",       role: "Ben Richards",      img: glenpowell },
@@ -5373,7 +5393,7 @@ readyplayerone: {
     "When the creator of a popular video game system dies, a virtual contest is created to find a successor. A teenager from the slums enters the hunt for the hidden Easter egg that will give the winner control of the OASIS and a massive fortune.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1OqUsViWx_SFruRWojAygEEwpAeTXD3hC/view?usp=sharing",
 
   accent: "52, 110, 240",
   theme: {
@@ -5394,15 +5414,22 @@ readyplayerone: {
     reviewsBackground: "linear-gradient(180deg, #0e1250 0%, #261a68 60%, #5a1a6a 100%)"
   },
 
-  hero: "ready_player_one.jpg",
-  poster: "ready_player_one_poster.jpg",
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794760694/323078-2048x1152-desktop-hd-ready-player-one-background-photo_pcyk2x.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794663891/Ready_Player_One_2018_Poster_yqjg6f.jpg",
 
-  trailers: [
-    { id: "", alt: "Official Trailer", thumb: "" },
-    { id: "", alt: "Trailer Clip 2",   thumb: "" },
-    { id: "", alt: "Trailer Clip 3",   thumb: "" }
-  ],
 
+trailers: [
+  {
+    id: "cSp1dM2Vj48",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/cSp1dM2Vj48/hqdefault.jpg"
+  },
+  {
+    id: "D_eZxSYRhco",
+    alt: "Come With Me - Official Trailer",
+    thumb: "https://img.youtube.com/vi/D_eZxSYRhco/hqdefault.jpg"
+  }
+],
   cast: [
     { name: "Tye Sheridan",    role: "Wade Watts / Parzival",   img: tyesheridan },
     { name: "Olivia Cooke",    role: "Samantha / Art3mis",      img: oliviacooke },
@@ -5419,7 +5446,7 @@ heartofthebeast: {
   title: "Heart of the Beast",
   director: "David Ayer",
   genres: ["Action", "Adventure", "Thriller"],
-  pills: ["2026", "—", "IMDb —", "—"],
+  pills: ["2026", "—", "IMDb 7.4", "—"],
   overview:
     "After his small plane crashes in the Alaskan wilderness, a former Special Forces officer must find his way back to civilization with his combat dog, facing predators, harsh terrain and his own personal struggles.",
   language: "Dual Audio (English, Hindi)",
@@ -5449,16 +5476,17 @@ heartofthebeast: {
   poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794677597/Heart_of_the_Beast_ldok2z.jpg",
 
 
+
 trailers: [
   {
-    id: "JFQcDFhNh4o",
+    id: "cSp1dM2Vj48",
     alt: "Official Trailer",
-    thumb: "https://img.youtube.com/vi/JFQcDFhNh4o/hqdefault.jpg"
+    thumb: "https://img.youtube.com/vi/cSp1dM2Vj48/hqdefault.jpg"
   },
   {
-    id: "PPkGE8EvuDk",
-    alt: "New International Trailer",
-    thumb: "https://img.youtube.com/vi/PPkGE8EvuDk/hqdefault.jpg"
+    id: "D_eZxSYRhco",
+    alt: "Come With Me - Official Trailer",
+    thumb: "https://img.youtube.com/vi/D_eZxSYRhco/hqdefault.jpg"
   }
 ],
   cast: [
@@ -5467,4 +5495,119 @@ trailers: [
     { name: "Anna Lambe",   role: "Cast",           img: annalambe }
   ]
 },
+theodyssey: {
+  title: "The Odyssey",
+  director: "Christopher Nolan",
+  genres: ["Action", "Adventure", "Drama", "Fantasy"],
+  pills: ["2026", "2H 53M", "IMDb 8.4", "R"],
+  overview:
+    "After the fall of Troy, the warrior Odysseus embarks on a perilous decade-long journey to return home to Ithaca, facing gods, monsters and temptation while his family fights to hold his kingdom together in his absence.",
+  language:English,
+
+  watchLink: "https://drive.google.com/file/d/1KZ3qZOx2O5F-Fll9zxJYDHF_Fsbu21Oz/view?usp=sharing",
+
+  accent: "190, 44, 30",
+  theme: {
+    buttonColor: "#b8281e",
+    buttonGlow: "rgba(208, 48, 34, 0.55)",
+    lineColor: "#d8a050",
+    backHover: "#b8281e",
+    castHover: "#d8a050",
+    cardHover: "#4a86ac",
+    playHover: "#4a86ac",
+    cautionColor: "#e6bc7a",
+    textColor: "#eee8e2",
+    castRoleColor: "#a09084",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(8, 6, 8, 0.95) 0%, rgba(8, 6, 8, 0.45) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(216, 128, 60, 0.24) 0%, transparent 55%), linear-gradient(160deg, #1c2a3a 0%, #06070a 100%)",
+    castBackground: "linear-gradient(180deg, #06070a 0%, #121a26 100%)",
+    reviewsBackground: "linear-gradient(180deg, #121a26 0%, #2a2230 60%, #5a2418 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794760702/odysseus-matt-damon-3840x2160-26432_1_ecrpht.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794591742/the_Odyssey_poster_pksgan.jpg",
+
+
+trailers: [
+  {
+    id: "l54pzz3-Yl8",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/l54pzz3-Yl8/hqdefault.jpg"
+  },
+  {
+    id: "f_bKjZeJBBI",
+    alt: "Official New Trailer",
+    thumb: "https://img.youtube.com/vi/f_bKjZeJBBI/hqdefault.jpg"
+  }
+],
+  cast: [
+    { name: "Matt Damon",        role: "Odysseus",      img: mattdamon },
+    { name: "Anne Hathaway",     role: "Penelope",      img: annehathaway },
+    { name: "Tom Holland",       role: "Telemachus",    img: tomholland },
+    { name: "Robert Pattinson",  role: "Antinous",      img: robertpattinson },
+    { name: "Charlize Theron",   role: "Calypso",       img: charlizetheron },
+    { name: "Zendaya",           role: "Athena",        img: zendaya },
+    { name: "Samantha Morton",   role: "Circe",         img: samanthamorton },
+    { name: "Lupita Nyong'o",    role: "Helen of Troy", img: lupitanyongo },
+    { name: "Jon Bernthal",      role: "Cast",          img: jonbernthal }
+  ]
+},
+yourname: {
+  title: "Your Name",
+  director: "Makoto Shinkai",
+  genres: ["Animation", "Drama", "Fantasy", "Romance"],
+  pills: ["2016", "1H 46M", "IMDb 8.4", "PG"],
+  overview:
+    "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart? A high school girl in a rural town and a boy in Tokyo mysteriously begin swapping bodies.",
+  language: "Dual Audio (Japanese, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1Dfi-tNn8P9N2jC1wgbP9q3i_sQ4BbjgB/view?usp=sharing",
+
+  accent: "56, 150, 240",
+  theme: {
+    buttonColor: "#2a7ad8",
+    buttonGlow: "rgba(56, 160, 248, 0.55)",
+    lineColor: "#f0987a",
+    backHover: "#2a7ad8",
+    castHover: "#f0987a",
+    cardHover: "#f0987a",
+    playHover: "#c85ad8",
+    cautionColor: "#f6b49a",
+    textColor: "#e8ecfa",
+    castRoleColor: "#98a0c8",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(6, 8, 28, 0.94) 0%, rgba(6, 8, 28, 0.38) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(240, 152, 122, 0.24) 0%, transparent 55%), linear-gradient(160deg, #1a2468 0%, #05061c 100%)",
+    castBackground: "linear-gradient(180deg, #05061c 0%, #0e1448 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0e1448 0%, #2a1c62 60%, #6a2c58 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794760007/619644_gsyaou.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794759975/Your_Name_Movie_Poster___Chinese_Animated_Movie_2016_e6ynq0.jpg",
+
+
+trailers: [
+  {
+    id: "xU47nhruN-Q",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/xU47nhruN-Q/hqdefault.jpg"
+  },
+  {
+    id: "NooIc3dW4sY",
+    alt: "English Dub Trailer",
+    thumb: "https://img.youtube.com/vi/NooIc3dW4sY/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Ryunosuke Kamiki",  role: "Taki Tachibana (voice)",    img: ryunosukekamiki },
+    { name: "Mone Kamishiraishi", role: "Mitsuha Miyamizu (voice)", img: monekamishiraishi },
+    { name: "Ryo Narita",        role: "Katsuhiko Teshigawara (voice)", img: ryonarita },
+    { name: "Aoi Yuki",          role: "Sayaka Natori (voice)",     img: aoiyuki },
+    { name: "Nobunaga Shimazaki", role: "Tsukasa Fujii (voice)",    img: nobunagashimazaki },
+    { name: "Masami Nagasawa",   role: "Miki Okudera (voice)",      img: masaminagasawa },
+    { name: "Etsuko Ichihara",   role: "Hitoha Miyamizu (voice)",   img: etsukoichihara }
+  ]
+}
 };
